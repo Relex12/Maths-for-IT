@@ -2,7 +2,22 @@
 
 Ce dépôt traite d'algorithmes et l'intelligence artificielle, donne une classification des problèmes, liste les principaux algorithmes existants et les méthodes d'intelligence artificielle, ainsi que leurs applications.
 
-[TOC]
+* [Problèmes, Algorithmes et Intelligence artificielle](#problèmes,-algorithmes-et-intelligence-artificielle)
+    * [Problèmes](#problèmes)
+        * [Recherche et décision](#recherche-et-décision)
+        * [Inclusions des classes](#inclusions-des-classes)
+        * [P = NP et complétude](#p-=-np-et-complétude)
+        * [Exemples de problèmes](#exemples-de-problèmes)
+    * [[Algorithmes](https://fr.wikipedia.org/wiki/Liste_d%27algorithmes)](#[algorithmes](https://fr.wikipedia.org/wiki/liste_d%27algorithmes))
+    * [Intelligence artificielle](#intelligence-artificielle)
+* [Usage](#usage)
+    * [Input / Output systems](#input-/-output-systems)
+    * [Jeux](#jeux)
+        * [Jeux solitaires](#jeux-solitaires)
+        * [Jeux 1 contre 1](#jeux-1-contre-1)
+        * [Autres jeux](#autres-jeux)
+
+<!-- table of contents created by Adrian Bonnet, see https://github.com/Relex12/Markdown-Table-of-Contents for more -->
 
 ## Problèmes
 
