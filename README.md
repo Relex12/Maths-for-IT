@@ -21,7 +21,13 @@ Ce dépôt traite d'algorithmes et l'intelligence artificielle, donne une classi
 
 ## Problèmes
 
-**Il est intéressant de parler rapidement de la théorie de la complexité en informatique théorique, qui traite donc de la difficulté à résoudre certains problèmes.**
+**Théorie de la complexité**
+
+En informatique théorique, la théorie de la complexité traite de la difficulté que pose, à la fois en temps et en ressources, la résolution de certains problèmes. 
+
+C'est donc un bon point d'entrée avant de parler l'algorithmes et d'intelligence artificielle.
+
+Un **problème** est une question que l'on se pose dans un cadre particulier. Cela peut être la résolution d'un jeu, la recherche de spécificités sur un graphe, ou pleins d'autres choses. De manière générale, c'est une question à laquelle on va résoudre grâce à un algorithme.
 
 ### Recherche et décision
 
@@ -110,6 +116,38 @@ Pour indication,
 
 ### Exemples de problèmes
 
+* **Tri** : le tri d'une liste de nombre peut se faire de manière naïve avec une complexité en $O(n^2)$, les meilleurs algorithmes (Tri rapide ou Tri fusion par exemple) ont une complexité en $O(n.log(n))$. Tri est un un problème fonctionnel dont la version décisionnelle appartient à la classe P
+* **Primalité** :
+
+Le tableau ci-dessous résume les problèmes les plus connus :
+
+| Catégorie           | Problème                                 | Complexité |
+| :------------------ | ---------------------------------------- | ---------- |
+| Jeux                | Démineur (Minesweeper)                   | NP-complet |
+|                     | Sudoku                                   | NP-complet |
+|                     | Tetris                                   | NP-complet |
+|                     | Mastermind                               | NP-complet |
+|                     | Lemmings                                 | NP-complet |
+|                     | Taquin                                   | NP         |
+|                     | Go                                       | > NP       |
+|                     |                                          |            |
+| Théorie des graphes | Cycle hamiltonien (voyageur de commerce) | NP-complet |
+|                     | Coloration à k couleurs                  | NP-complet |
+|                     | Nombre achromatique                      | NP-complet |
+|                     | Partition en cliques                     | NP-complet |
+|                     | Plus court chemin                        | P          |
+|                     | Connexité                                | P          |
+|                     |                                          |            |
+| Autre               | SAT                                      | NP-complet |
+|                     | Sac-à-dos                                | NP-complet |
+|                     | Factorisation en nombres premiers        | NP         |
+|                     | Primalité                                | P          |
+|                     | Optimisation linéaire                    | P          |
+|                     | Restriction 2-SAT                        | P          |
+|                     | Tri                                      | P          |
+
+
+
 * Flotteurs dérivants
 * Prime
 * Graphes
@@ -119,6 +157,25 @@ Pour indication,
 * SAT
 * Sac-à-dos
 * Jeu de taquin
+
+## Aléatoire
+
+Nos ordinateurs sont très puissants lorsqu'il s'agit de réaliser des calculs formels, à vrai dire c'est tout ce qu'ils savent faire. Pour autant, il y a des domaines où les programmeurs ont besoin de générer des valeurs aléatoires
+
+### Aléatoire pur - Phénomènes physiques
+
+L'aléatoire pur est réalisé par la mesure d'un phénomène physique
+
+* Mur de lampe à lave
+* Rayonnement avec antenne
+
+### Pseudo aléatoire - Chaos mathématique
+
+PRNG - pseudo random number generator
+
+* Fonction de hachage
+* Mersenne Twister PRNG
+* 
 
 ## [Algorithmes](https://fr.wikipedia.org/wiki/Liste_d%27algorithmes)
 
