@@ -1,0 +1,15 @@
+Maths-for-IT
+- finir 01-FR-Problemes mathématiques
+- pour chaque 0*-FR*.md, faire le squelette de la page
+- ReadMe pour chaque page ajouter un lien hypertexte, le résumé et le sommaire
+--> ne pas reprendre l'intro comme ça, mais en faire une version courte (2 lignes max)
+
+Markdown-Table-of-Contents
+- retirer les liens hypertextes, gras et italique
+
+Markdown-editor
+- faire les spécifications du front matter config.yaml
+
+To commit :
+- Website-manager
+- Relex12.github.io

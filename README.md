@@ -1,115 +1,42 @@
-# Maths-for-IT
+# Mathématiques pour l'informatique
 
-Les mathématiques derrière les algorithmes et l'intelligence artificielle.
+L'application des mathématiques à différents domaines de l'informatique, notamment les algorithmes et l'intelligence artificielle.
 
-![](https://img.shields.io/badge/status-In_progress-green) ![](https://img.shields.io/github/last-commit/Relex12/Maths-for-IT) ![](https://img.shields.io/github/repo-size/Relex12/Maths-for-IT) ![](https://img.shields.io/github/languages/count/Relex12/Maths-for-IT)
+![](https://img.shields.io/badge/status-In_progress-green) ![](https://img.shields.io/github/last-commit/Relex12/Maths-for-IT) ![](https://img.shields.io/github/repo-size/Relex12/Maths-for-IT) ![](https://img.shields.io/badge/language-FR-blue)
 
----
+Regarder sur GitHub :
+
+[![Maths-for-IT](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths-for-IT)](https://github.com/Relex12/Maths-for-IT)
 
 ## Sommaire
 
-[toc]
+* [Mathématiques pour l'informatique](#mathématiques-pour-l'informatique)
+    * [Sommaire](#sommaire)
+    * [Problèmes mathématiques](https://relex12.github.io/fr/Maths-for-IT/Problemes-Mathematiques)
+    * [Intelligence artificielle](https://relex12.github.io/fr/Maths-for-IT/Intelligence-Artificielle)
+    * [Algorithmes](https://relex12.github.io/fr/Maths-for-IT/Algorithmes)
+    * [Cryptographie](https://relex12.github.io/fr/Maths-for-IT/Cryptographie)
+    * [Structures de données](https://relex12.github.io/fr/Maths-for-IT/Structures-De-Donnees)
+    * [Génération de nombres aléatoires](https://relex12.github.io/fr/Maths-for-IT/Generation-De-Nombres-Aleatoires)
+    * [Compilation](https://relex12.github.io/fr/Maths-for-IT/Compilation)
+    * [Constantes fondamentales](https://relex12.github.io/fr/Maths-for-IT/Constantes-Fondamentales)
 
-## Lecture
+<!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
-Ce dépôt traite d'algorithmes et l'intelligence artificielle, donne une classification des problèmes, liste les principaux algorithmes existants et les méthodes d'intelligence artificielle, ainsi que leurs applications.
+## Théorie de la complexité
 
-## Introduction
+En informatique théorique, la **théorie de la complexité** traite de la difficulté que pose, à la fois en temps et en ressources, la résolution de problèmes mathématiques. Un **problème** est une question que l'on se pose dans un cadre particulier. Cela peut être la résolution d'un jeu, la recherche de spécificités sur un graphe, ou pleins d'autres choses. De manière générale, c'est une question à laquelle on va répondre grâce à un algorithme.
 
-[Algorithmes utilisés - Wikipédia](https://fr.wikipedia.org/wiki/Apprentissage_automatique#Algorithmes_utilis%C3%A9s)
+## Intelligence artificielle
 
+## Algorithmes
 
+## Cryptographie
 
-L'intelligence artificielle, ce n'est pas juste un mot qui fait le buzz, derrière ce concept il y a aussi une réalité mathématique bien plus tangible qu'on pourrait le croire.
+## Structures de données
 
+## Génération de nombres aléatoires
 
+## Compilation
 
-différencier intelligence artificielle et algorithmes utilisés
-
-
-
-Apprentissage profond ⊂ Apprentissage automatique ⊂ Intelligence Artificielle ⊂ Algorithmie
-
-
-
-Définition apprentissage automatique (machine learning) : [Wikipédia - Apprentissage automatique](https://fr.wikipedia.org/wiki/Apprentissage_automatique)
-
-[Types d'apprentissage](https://fr.wikipedia.org/wiki/Apprentissage_automatique#Types_d'apprentissage) :
-
-*   supervisé
-*   non supervisé
-*   semi-supervisé
-*   partiellement supervisé
-*   par renforcement
-*   par transfert
-
-Familles ou types d'algorithmes :
-
--   [régression](https://fr.wikipedia.org/wiki/Régression)
--   [classification](https://fr.wikipedia.org/wiki/Classification)
--   [partitionnement de données](https://fr.wikipedia.org/wiki/Partitionnement_de_données)
--   réduction de dimensions.
-
----
-
-## Algorithmes d'intelligence artificielle
-
-[Algorithmes utilisés - Wikipédia](https://fr.wikipedia.org/wiki/Apprentissage_automatique#Algorithmes_utilis%C3%A9s)
-
-### Réseaux de neurones
-[réseaux de neurones](https://fr.wikipedia.org/wiki/Réseau_de_neurones), dont les méthodes d'[apprentissage profond](https://fr.wikipedia.org/wiki/Apprentissage_profond) (*deep learning* en anglais) pour un apprentissage supervisé ou non-supervisé
-
-### Algorithmes génétiques
-[algorithmes génétiques](https://fr.wikipedia.org/wiki/Algorithme_génétique) et la *[programmation génétique](https://fr.wikipedia.org/wiki/Programmation_génétique)*
-
-### Arbres de décision
-
-[arbres de décision](https://fr.wikipedia.org/wiki/Arbre_de_décision), méthodes à l'origine des [Random Forest](https://fr.wikipedia.org/wiki/Forêt_d'arbres_décisionnels), par extension également du boosting (notamment [xgboost](https://fr.wikipedia.org/wiki/Xgboost))
-
-### Q-Learning
-
-[Q-Learning](https://fr.wikipedia.org/wiki/Q-Learning)
-
----
-
-## Autres algorithmes
-
-### Minimax
-
-### Régression linéaire
-
-[régression linéaire](https://fr.wikipedia.org/wiki/Régression_linéaire)
-
-### Régression logistique
-
-[régression logistique](https://fr.wikipedia.org/wiki/Régression_logistique)
-
-### Méthode des k plus proches voisins
-
-[méthode des k plus proches voisins](https://fr.wikipedia.org/wiki/Méthode_des_k_plus_proches_voisins) pour un apprentissage supervisé
-
-### Méthodes statistiques
-
-[méthodes statistiques](https://fr.wikipedia.org/wiki/Statistique) comme le [modèle de mixture gaussienne](https://fr.wikipedia.org/wiki/Modèle_de_mixture_gaussienne)
-
-### Analyse discriminante linéaire
-
-[analyse discriminante linéaire](https://fr.wikipedia.org/wiki/Analyse_discriminante_linéaire)
-
-### Analyse en composantes principales
-
-[analyse en composantes principales](https://fr.wikipedia.org/wiki/Analyse_en_composantes_principales)
-
-### 
-
----
-
-Sources :
-
-*   [Neural networks - 3B1B (Youtube playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-*   [Le deep learning - Science Etonnante](https://www.youtube.com/watch?v=trWrEWfhTVg)
-*   [Une intelligence artificielle peut-elle être créative ? - Science Etonnante](https://www.youtube.com/watch?v=xuBzQ38DNhE)
-*   [Comment les I.A. font-elles pour comprendre notre langue ?- Science Etonnante](https://www.youtube.com/watch?v=CsQNF9s78Nc)
-*   [Jeu de go et intelligence artificielle - Science Etonnante](https://www.youtube.com/watch?v=P6eBraOUBLw)
-*   [Le repliement des protéines - Science Etonnante](https://www.youtube.com/watch?v=OGewxRMME8o)
-*   [Neural Networks and Deep Learning (website)](http://neuralnetworksanddeeplearning.com/)
+## Constantes fondamentales
